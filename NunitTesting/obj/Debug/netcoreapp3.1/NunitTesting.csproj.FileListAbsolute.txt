@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\bin\Debug\netcoreapp3.1\NunitTesting.exe
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\bin\Debug\netcoreapp3.1\NunitTesting.deps.json
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\bin\Debug\netcoreapp3.1\NunitTesting.runtimeconfig.json
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\bin\Debug\netcoreapp3.1\NunitTesting.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\bin\Debug\netcoreapp3.1\NunitTesting.dll
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\bin\Debug\netcoreapp3.1\NunitTesting.pdb
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\obj\Debug\netcoreapp3.1\NunitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\obj\Debug\netcoreapp3.1\NunitTesting.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\obj\Debug\netcoreapp3.1\NunitTesting.AssemblyInfo.cs
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\obj\Debug\netcoreapp3.1\NunitTesting.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\obj\Debug\netcoreapp3.1\NunitTesting.sourcelink.json
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\obj\Debug\netcoreapp3.1\NunitTesting.dll
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\obj\Debug\netcoreapp3.1\NunitTesting.pdb
+C:\Users\HP\source\repos\NunitTesting\NunitTesting\obj\Debug\netcoreapp3.1\NunitTesting.genruntimeconfig.cache
